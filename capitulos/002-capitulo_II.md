@@ -8,3 +8,4 @@ El presente convenio quedará en plena vigencia hasta la homologación de otro c
 
 **Artículo 3°- AMBITO DE APLICACIÓN:**
 * **Personal:** El presente convenio será aplicado a los trabajadores que revisten en el Ministerio de Economía y Crédito Público, que se encuentren cumpliendo funciones en el Ministerio.
+* **Zona:** El ámbito de aplicación de la presente Convención es todo el territorio de la Provincia del Chubut.
