@@ -5,15 +5,25 @@ Bienvenido al sistema oficial de seguimiento, control de versiones y texto orden
 ## 📖 Índice y Estado Actual
 * [Introducción ](capitulos/000-introduccion.md)
 * [CAPITULO I: Partes intervinientes ](capitulos/001-capitulo_I.md)
+  * *Artículos 1°*
 * [CAPITULO II: Aplicaciones del convenio ](capitulos/002-capitulo_II.md)
+  * *Artículos 2°, 3°*
 * [CAPITULO III: A quienes no comprende ](capitulos/003-capitulo_III.md)
+  * *Artículos 4°*
 * [CAPITULO IV: De las definiciones ](capitulos/004-capitulo_IV.md)
+  * *Artículos 5°*
 * [CAPITULO V: Del ingreso ](capitulos/005-capitulo_V.md)
+  * *Artículos 6°, 7°, 8°, 9°, 10°, 11°*
 * [CAPITULO VI: De las carreras ](capitulos/006-capitulo_VI.md)
+  * *Artículos 12°, 13°, 14°*
 * [CAPITULO VII: De las remuneraciones ](capitulos/007-capitulo_VII.md)
+  * *Artículos 15°, 16°, 17°, 18°, 19°, 20°*
 * [CAPITULO VIII: De los derechos y deberes de los trabajadores ](capitulos/008-capitulo_VIII.md)
+  * *Artículos 21°*
 * [CAPITULO IX: De las vacantes y los concursos ](capitulos/009-capitulo_IX.md)
+  * *Artículos 22°, 23°, 24°, 25°, 26°, 27°, 28°, 29°, 30°, 31°, 32°, 33°, 34°*
 * [CAPITULO X: Del cambio de carrera ](capitulos/010-capitulo_X.md)
+  * *Artículos 35°*
 * [CAPITULO XI: De las Prestaciones Complementarias ](capitulos/011-capitulo_XI.md)
 * [CAPITULO XII: De los Accidentes de Trabajo ](capitulos/012-capitulo_XII.md)
 * [CAPITULO XIII: Del Vestuario ](capitulos/013-capitulo_XIII.md)
