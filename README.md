@@ -38,7 +38,7 @@ Bienvenido al sistema oficial de seguimiento, control de versiones y texto orden
 * [CAPITULO XXII: De las Licencias, Justificación y Franquicias ](capitulos/022-capitulo_XXII.md)
 * [CAPITULO XXIII: Escalafón ](capitulos/023-capitulo_XXIII.md)
 * [CAPITULO XXIV: Higiene, Seguridad de Medicina del Trabajo y Medicina Preventiva ](capitulos/024-capitulo_XXIV.md)
-* [CAPÍTULO XXV: Mecanismo de Prevención o Solución de Conflictos Laborales ](capitulos/025-capitulo_XXV.md)
+* [CAPITULO XXV: Mecanismo de Prevención o Solución de Conflictos Laborales ](capitulos/025-capitulo_XXV.md)
 
 
 ---
