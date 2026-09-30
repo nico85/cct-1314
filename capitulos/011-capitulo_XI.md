@@ -51,6 +51,22 @@ No se procederá al pago por servicios extraordinarios en los casos de fraccione
 | Clase VI   |            |                 |             |      0,12       |          0,06            | |------------|------------|-----------------|-------------|-----------------|--------------------------|
 | Clase V    |            |                 |             |      0,08       |          0,04            | |------------|------------|-----------------|-------------|-----------------|--------------------------|
 
+
+|            |                   |     Área de Sistemas y Operaciones     |                    |                                        | Área Administrativa Soporte y Asistencia a Usuarios |
+|------------|:-----------------:|:--------------------------------------:|:------------------:|:--------------------------------------:|:---------------------------------------------------:|
+| Clase      | Índice Jerárquico | Índice Personal Jerárquico Profesional | Índice Profesional | Índice Personal Técnico Administrativo |        Índice Personal Técnico Administrativo       |
+| Clase XIII |        0,37       |                  0,44                  |                    |                                        |                                                     |
+| Clase XII  |        0,44       |                  0,53                  |                    |                                        |                         0,24                        |
+| Clase XI   |        0,32       |                  0,38                  |        0,44        |                                        |                         0,16                        |
+| Clase X    |                   |                                        |        0,37        |                                        |                                                     |
+| Clase IX   |                   |                                        |        0,32        |                                        |                                                     |
+| Clase VIII |                   |                                        |                    |                  0,24                  |                         0,12                        |
+| Clase VII  |                   |                                        |                    |                  0,17                  |                         0,09                        |
+| Clase VI   |                   |                                        |                    |                  0,12                  |                         0,06                        |
+| Clase V    |                   |                                        |                    |                  0,08                  |                         0,04                        |
+
+
+
     * j) **POR JERARQUIA PROFESIONAL:** Se abonara al Personal Profesional que este cumpliendo Funciones como Personal Superior/Jerárquico  el veinte (20 %) del salario básico de la Clase en la que se desempeñe.
 
 ### Prestaciones Complementarias No Remunerativas
